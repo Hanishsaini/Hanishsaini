@@ -1,34 +1,77 @@
-# Hi, I'm Hanish Saini 👋
+# Hanish Saini
 
-## 🚀 About Me
-I'm a curious and enthusiastic student with a love for technology, creativity, and connecting with people.  
-Whether I'm coding up a new web app, exploring the world of machine learning, or enjoying music and sports, I always bring energy and a desire to learn.
+I’m a Computer Science undergraduate focused on **building systems that think, scale, and compound over time**. My work sits at the intersection of **AI, software engineering, and system design**—less about demos, more about foundations.
 
-## 💻 Tech Stack & Skills
-- **Languages:** Python, JavaScript, HTML, CSS
-- **Frameworks/Libraries:** ReactJS, NextJS
-- **Specialties:** Machine Learning, AI Automation, Frontend Development
-
-I enjoy turning ideas into reality with code—automating tasks, building sleek interfaces, and experimenting with data-driven solutions.
-
-## 🎯 Goals
-- Build impactful projects that make life easier and more fun.
-- Deepen my understanding of AI and automation.
-- Collaborate with creative minds around the globe.
-- Keep learning and growing every day.
-
-## 🎶 Hobbies & Interests
-- Music lover (musica 🎵)
-- Playing cricket 🏏
-- Traveling to new places 🌏
-- Meeting new people and discovering different cultures 🤝
-
-## 🌐 Let's Connect!
-- [LinkedIn](https://www.linkedin.com/in/hanish-saini-5a223b281/)
-- [Instagram](https://www.instagram.com/_hanishzzz_/)
+I’m driven by a long-term ambition: to design intelligent systems that are **useful in the real world**, resilient under constraints, and extensible as technology evolves. I care deeply about *how* things are built, not just *what* they do.
 
 ---
 
-> _"I believe in learning by doing, and I'm always open to new ideas, collaborations, and challenges."_
+## How I Think
 
-Feel free to check out my repositories, connect, or just say hi!
+* I prefer **depth over surface-level breadth**
+* I’m interested in **systems**, not scripts
+* I optimize for **learning velocity and long-term leverage**
+* I believe good engineering is quiet, precise, and hard to fake
+
+---
+
+## What I’m Exploring
+
+* Large Language Models as **reasoning infrastructure**, not just chat
+* Retrieval-augmented systems that respect **accuracy, latency, and cost**
+* AI agents that operate with **clear boundaries and intent**
+* Data pipelines where **privacy and statistical integrity** actually matter
+
+---
+
+## Technical Foundations
+
+I work primarily with:
+
+* **Python** for backend systems, AI pipelines, and orchestration
+* **Modern backend frameworks** (FastAPI, Django, Flask)
+* **LLM ecosystems** (RAG, embeddings, vector databases, orchestration layers)
+* **Databases & infrastructure** (PostgreSQL, SQLite, AWS)
+* **Core CS fundamentals**: data structures, operating systems, networks
+
+Tools change. Principles don’t.
+
+---
+
+## Selected Work
+
+Rather than a long list, a few projects that reflect how I think:
+
+* **SynthForge** — an exploration into privacy-aware synthetic data generation, balancing statistical fidelity with responsible AI practices
+* **AI Document Intelligence Agent** — a study in making complex academic content genuinely queryable, not just searchable
+* **ECHO-OS** — an experimental direction around agent-based system orchestration and natural language control
+
+Each project is a vehicle for learning, not an endpoint.
+
+---
+
+## Background
+
+* B.Tech in Computer Science (IoT)
+* Experience building and deploying end-to-end systems independently
+* Led technical teams under real-world constraints
+
+I’m comfortable operating without hand-holding and under incomplete information.
+
+---
+
+## What I’m Looking Toward
+
+* Building **AI-first products** with real utility
+* Working with people who value **clarity, rigor, and ownership**
+* Long-term: contributing to systems that outlast trends
+
+---
+
+## Find Me
+
+* GitHub: [https://github.com/Hanishsaini](https://github.com/Hanishsaini)
+* LinkedIn: [https://www.linkedin.com/in/hanish-saini-5a223b281](https://www.linkedin.com/in/hanish-saini-5a223b281)
+* Email: [hanishsaini958@gmail.com](mailto:hanishsaini958@gmail.com)
+
+> I’m not in a rush. I’m here to build things that matter.
