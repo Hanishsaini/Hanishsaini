@@ -4,13 +4,9 @@
 
 ### Full-stack & AI engineer — building tools that turn slow, manual work into a 90-second loop.
 
-<a href="mailto:lexusmediateam@gmail.com">
-  <img src="https://img.shields.io/badge/Email-lexusmediateam%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+<a href="mailto:hanishsaini958@gmail.com">
+  <img src="https://img.shields.io/badge/Email-hanishsaini958%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
 </a>
-<a href="https://github.com/Hanishsaini">
-  <img src="https://img.shields.io/github/followers/Hanishsaini?label=Follow&style=flat-square&logo=github&color=222" alt="GitHub Follow" />
-</a>
-<img src="https://komarev.com/ghpvc/?username=Hanishsaini&style=flat-square&color=10b981&label=Profile+Views" alt="Profile Views" />
 
 </div>
 
@@ -27,17 +23,22 @@ I design and ship end-to-end products at the intersection of **AI**, **developer
 
 ---
 
-## 🚀 Featured Project
+## 🚀 Featured Projects
 
 <div align="center">
 
 <a href="https://github.com/Hanishsaini/complico">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hanishsaini&repo=complico&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=10b981&icon_color=10b981" alt="Complico" />
 </a>
+<a href="https://github.com/Hanishsaini/ai-workspace">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hanishsaini&repo=ai-workspace&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=10b981&icon_color=10b981" alt="AI Workspace" />
+</a>
 
 </div>
 
-> **Complico** — Upload an audit report, find SOC 2 / ISO 27001 control gaps in seconds, and auto-generate audit-ready policy packs. Powered by a FAISS-backed retrieval pipeline, a dual-agent LLM swarm with a senior-reviewer tie-breaker, and a hardened multi-tenant FastAPI + Next.js stack.
+> **[Complico](https://github.com/Hanishsaini/complico)** — Upload an audit report, find SOC 2 / ISO 27001 control gaps in seconds, and auto-generate audit-ready policy packs. Powered by a FAISS-backed retrieval pipeline, a dual-agent LLM swarm with a senior-reviewer tie-breaker, and a hardened multi-tenant FastAPI + Next.js stack.
+>
+> **[AI Workspace](https://github.com/Hanishsaini/ai-workspace)** — A unified workspace for working with AI: experiments, prompts, and the day-to-day tooling I lean on while building LLM-powered products.
 
 ---
 
@@ -106,8 +107,8 @@ I design and ship end-to-end products at the intersection of **AI**, **developer
 
 If you're building something at the intersection of **AI, security, or developer tooling** — or you just want to nerd out about LLM evaluation, RAG, or compliance automation — my inbox is open.
 
-<a href="mailto:lexusmediateam@gmail.com">
-  <img src="https://img.shields.io/badge/Say%20hi-lexusmediateam%40gmail.com-10b981?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+<a href="mailto:hanishsaini958@gmail.com">
+  <img src="https://img.shields.io/badge/Say%20hi-hanishsaini958%40gmail.com-10b981?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 
 </div>
